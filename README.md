@@ -19,4 +19,4 @@ Please fork this repository and then issue pull requests for review
 ## DEPLOYMENT
 
 ## COPYRIGHT
-Added copyright notice
+Added copyright notice. All rights reserved
